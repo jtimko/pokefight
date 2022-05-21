@@ -15,7 +15,7 @@ export default function Details({ pokemon }: any) {
              <Head>
                 <title>PokeFight - {pokemon.name}</title>
             </Head>
-            <Link href={`http://localhost:3000/`}>
+            <Link href={`/`}>
                 Back to home
             </Link>
 
